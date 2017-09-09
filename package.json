@@ -1,7 +1,7 @@
 {
   "name": "webpack boilerplate",
   "version": "1.0.0",
-  "description": "untilLoad Js",
+  "description": "webpack boilerplate",
   "repository": {
     "type": "git",
     "url": "https://github.com/VladimirHumeniuk/webpack-boilerplate"
