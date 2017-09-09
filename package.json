@@ -1,10 +1,10 @@
 {
-  "name": "untilload.js",
-  "version": "0.0.1",
+  "name": "webpack boilerplate",
+  "version": "1.0.0",
   "description": "untilLoad Js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/VladimirHumeniuk/untilload.js"
+    "url": "https://github.com/VladimirHumeniuk/webpack-boilerplate"
   },
   "author": "Vladimir Humeniuk",
   "license": "MIT",
