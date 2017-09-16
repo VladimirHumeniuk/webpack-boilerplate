@@ -13,4 +13,4 @@
 ``` Yarn build ```
 
 ### Clean:
-``` Yarn clearn ```
+``` Yarn clean ```
