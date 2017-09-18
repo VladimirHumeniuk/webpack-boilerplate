@@ -65,12 +65,7 @@ module.exports = {
       },
       {
         test: /\.(pug|jade)$/,
-        loader: 'pug-loader',
-        query: {
-          partialDirs: [
-            path.join(srcDir, 'pug')
-          ]
-        }
+        loader: 'pug-loader'
       },
       {
         test: /\.(eot?.+|svg?.+|ttf?.+|otf?.+|woff?.+|woff2?.+)$/,
