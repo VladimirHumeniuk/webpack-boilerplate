@@ -48,7 +48,7 @@
     "pug-loader": "^2.3.0",
     "rimraf": "^2.6.1",
     "sass-loader": "^6.0.6",
-    "style-loader": "^0.18.2",
+    "style-loader": "^0.23.1",
     "unminified-webpack-plugin": "^1.2.0",
     "url-loader": "^0.5.8",
     "webpack": "^3.2.0",
